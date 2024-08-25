@@ -12,6 +12,8 @@ export default function Document() {
           data-website-id={process.env.STATS_WEBSITE_ID}
           src={process.env.STATS_URL}
         ></script>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3942185829907961"
+     crossOrigin="anonymous"></script>
       </Head>
 
       <body>
